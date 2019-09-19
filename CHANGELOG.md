@@ -1,3 +1,6 @@
+# v2.1.0
+- Added Hebrew translation.
+
 # v2.0.1
 - Fixed crash in writeToParcel on Android 5.0 with RTL language (#21).
 - Japenese translation improvements.
